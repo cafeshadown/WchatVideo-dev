@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ff83ca-6036-49ae-864c-4910b3ce6407" name="Default" comment="" />
+    <list default="true" id="f0ff83ca-6036-49ae-864c-4910b3ce6407" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WchatVideo-dev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/src/main/java/com/video/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/src/main/java/com/video/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/BasicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/BasicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/target/classes/com/video/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/target/classes/com/video/WebMvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/target/classes/com/video/controller/BasicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/target/classes/com/video/controller/BasicController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/target/classes/com/video/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/target/classes/com/video/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-api/target/classes/com/video/controller/VideoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/videos-api/target/classes/com/video/controller/VideoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/videos-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-common/src/main/java/com/video/utils/MergeVideoMp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/videos-common/src/main/java/com/video/utils/MergeVideoMp3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-common/target/classes/com/video/utils/MergeVideoMp3.class" beforeDir="false" afterPath="$PROJECT_DIR$/videos-common/target/classes/com/video/utils/MergeVideoMp3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-mapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/videos-mapper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/videos-pojo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/videos-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos-service/target/classes/com/video/service/impl/VideoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/videos-service/target/classes/com/video/service/impl/VideoServiceImpl.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -50,79 +73,87 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VideoServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/videos-service/src/main/java/com/video/service/impl/VideoServiceImpl.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-223">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos-api/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="WchatVideo-dev.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WchatVideo-dev.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videos-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos-mapper/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos-pojo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/BasicController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="75" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videos-api/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="340">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebMvcConfig.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WebMvcConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/videos-api/src/main/java/com/video/WebMvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="175">
+              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
               <folding>
                 <element signature="e#826#827#0" expanded="true" />
                 <element signature="e#861#862#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="console_2.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e940b8c3-c367-4cb0-84a8-2744086ffac0/console_2.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="71" selection-start-column="71" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideosCustomMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/videos-mapper/src/main/java/com/video/mapper/VideosCustomMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserCF.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/videos-service/src/main/java/com/video/service/impl/UserCF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="190" column="72" selection-start-line="190" selection-start-column="72" selection-end-line="190" selection-end-column="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,8 +170,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ch.qos</find>
-      <find>log4j</find>
       <find>logback</find>
       <find>show</find>
       <find>192.168.1.210</find>
@@ -159,7 +188,6 @@
       <find>f</find>
       <find>http</find>
       <find>评论</find>
-      <find>dev</find>
       <find>ffmpeg</find>
       <find>ffm</find>
       <find>main</find>
@@ -169,6 +197,9 @@
       <find>imooc</find>
       <find>public</find>
       <find>bgmserver</find>
+      <find>dev</find>
+      <find>User/</find>
+      <find>WchatVideo-dev</find>
     </findStrings>
     <replaceStrings>
       <replace>Resource</replace>
@@ -180,13 +211,15 @@
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/videos-mapper/src/main/java/com/video/mapper/BgmMapper.java" />
         <option value="$PROJECT_DIR$/videos-mapper/src/main/java/com/video/mapper/UsersReportMapper.java" />
         <option value="$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/UserCRUDController.java" />
-        <option value="$PROJECT_DIR$/videos-api/src/main/java/com/video/WebMvcConfig.java" />
         <option value="$PROJECT_DIR$/videos-pojo/src/main/java/com/video/pojo/Videos.java" />
         <option value="$PROJECT_DIR$/videos-pojo/src/main/java/com/video/pojo/UsersReport.java" />
         <option value="$PROJECT_DIR$/videos-pojo/src/main/java/com/video/pojo/UsersLikeVideos.java" />
@@ -207,12 +240,6 @@
         <option value="$PROJECT_DIR$/videos-common/src/main/java/idworker/Test.java" />
         <option value="$PROJECT_DIR$/videos-pojo/src/main/java/com/video/pojo/test.java" />
         <option value="$PROJECT_DIR$/videos-mapper/src/main/java/com/video/mapper/test.java" />
-        <option value="$PROJECT_DIR$/videos-common/pom.xml" />
-        <option value="$PROJECT_DIR$/videos-pojo/pom.xml" />
-        <option value="$PROJECT_DIR$/videos-service/pom.xml" />
-        <option value="$PROJECT_DIR$/videos-api/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/videos-mapper/pom.xml" />
         <option value="$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/interceptor/MiniInterceptor.java" />
         <option value="$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/RegistLoginController.java" />
         <option value="$PROJECT_DIR$/videos-common/src/main/java/com/video/utils/FetchVideoCover.java" />
@@ -234,6 +261,13 @@
         <option value="$PROJECT_DIR$/videos-api/src/main/java/com/video/ZKCuratorClient.java" />
         <option value="$PROJECT_DIR$/videos-service/src/main/java/com/video/service/impl/UserCF.java" />
         <option value="$PROJECT_DIR$/videos-service/src/main/java/com/video/service/impl/VideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/videos-api/pom.xml" />
+        <option value="$PROJECT_DIR$/videos-common/pom.xml" />
+        <option value="$PROJECT_DIR$/videos-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/videos-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/videos-service/pom.xml" />
+        <option value="$PROJECT_DIR$/videos-api/src/main/java/com/video/WebMvcConfig.java" />
       </list>
     </option>
   </component>
@@ -255,11 +289,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="WchatVideo-dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="WchatVideo-dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -278,83 +312,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="WchatVideo-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WchatVideo-dev" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-              <item name="videos-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="WchatVideo-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WchatVideo-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="videos-service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -641,11 +617,12 @@
       <workItem from="1557810608718" duration="329000" />
       <workItem from="1557815120821" duration="552000" />
       <workItem from="1557833350482" duration="13056000" />
+      <workItem from="1558073041138" duration="1247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99436000" />
+    <option name="totallyTimeSpent" value="100683000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -658,6 +635,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.31448275" />
@@ -676,12 +654,11 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.49793103" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.21103448" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.37793103" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
-      <window_info anchor="bottom" id="Database Console" order="9" weight="0.31310344" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30452344" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30936995" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
@@ -689,6 +666,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="9" weight="0.31310344" />
       <window_info anchor="bottom" id="SQL Generator" order="8" weight="0.0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -707,41 +685,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.7.RELEASE/spring-data-redis-1.8.7.RELEASE-sources.jar!/org/springframework/data/redis/core/StringRedisTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/UserCRUDController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="119" column="4" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos-common/src/main/java/com/video/enums/BGMOperatorTypeEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos-common/src/main/java/com/video/enums/VideoStatusEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -935,13 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://e940b8c3-c367-4cb0-84a8-2744086ffac0/schema/video_dev/table/videos">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos-common/src/main/java/com/video/utils/RedisOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -1013,7 +949,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/videos-mapper/src/main/java/com/video/mapper/VideosCustomMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="220">
           <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
@@ -1025,31 +961,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos-api/src/main/java/com/video/WebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/videos-service/src/main/java/com/video/service/impl/UserCF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
+        <state relative-caret-position="3620">
           <caret line="190" column="72" selection-start-line="190" selection-start-column="72" selection-end-line="190" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/BasicController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1060,29 +978,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos-api/pom.xml">
+    <entry file="file://$PROJECT_DIR$/videos-service/src/main/java/com/video/service/impl/VideoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="76">
+          <caret line="99" column="49" selection-start-line="99" selection-start-column="49" selection-end-line="99" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="das://e940b8c3-c367-4cb0-84a8-2744086ffac0/schema/video_dev/table/videos">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-api/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WchatVideo-dev.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="-223">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videos-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videos-service/src/main/java/com/video/service/impl/VideoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        <state relative-caret-position="360">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-mapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-api/src/main/java/com/video/controller/BasicController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="61" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videos-api/src/main/java/com/video/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
           </folding>
         </state>
       </provider>

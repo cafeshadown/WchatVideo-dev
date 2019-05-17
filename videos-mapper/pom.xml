@@ -16,7 +16,7 @@
     </properties>
     <parent>
         <groupId>is-video</groupId>
-        <artifactId>dev</artifactId>
+        <artifactId>WchatVideo-dev</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <dependencies>

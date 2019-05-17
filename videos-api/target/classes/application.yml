@@ -17,7 +17,7 @@ logging:
     kafka.consumer.ZookeeperConsumerConnector: error
 spring:
   resources:
-    static-locations: file:/Users/zhouchao/Desktop/biye/dev
+    static-locations: file:/Users/zhouchao/WchatVideo-dev
   servlet:
     multipart:
       max-file-size: 20MB

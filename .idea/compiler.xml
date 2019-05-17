@@ -14,13 +14,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dev" target="1.8" />
       <module name="video-dev-common" target="1.8" />
       <module name="videos-api" target="1.8" />
       <module name="videos-common" target="1.8" />
       <module name="videos-mapper" target="1.8" />
       <module name="videos-pojo" target="1.8" />
       <module name="videos-service" target="1.8" />
+      <module name="WchatVideo-dev" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -62,7 +62,7 @@ public class MergeVideoMp3 {
 	public static void main(String[] args) {
 		MergeVideoMp3 ffmpeg = new MergeVideoMp3("ffmpeg");
 		try {
-			ffmpeg.convertor("/Users/zhouchao/Desktop/biye/dev/180425CFA4RB6T0H/video/12.mp4", "/Users/zhouchao/Desktop/biye/dev/showbgm/123.mp3", 3, "/Users/zhouchao/Desktop/biye/dev/showbgm/1231.mp4");
+			ffmpeg.convertor("/Users/zhouchao/WchatVideo-dev/180425CFA4RB6T0H/video/12.mp4", "/Users/zhouchao/Desktop/biye/dev/showbgm/123.mp3", 3, "/Users/zhouchao/Desktop/biye/dev/showbgm/1231.mp4");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
